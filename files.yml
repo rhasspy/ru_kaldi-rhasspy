@@ -35,6 +35,14 @@ default:
     bytes: 26214400
     file-name: HCLG.fst
     sha256: 262fb7bcd23abbaf750bfc2d8cf72e8f88cf48f466b978278dad4806c8b15e64
+  acoustic_model/base_graph/HCLG.fst.gz.part-08:
+    bytes: 26214400
+    file-name: HCLG.fst
+    sha256: 4454ed3260ca8b107122bf5231c186048e92566738c55b7e090cfdbdf56ad021
+  acoustic_model/base_graph/HCLG.fst.gz.part-09:
+    bytes: 46792
+    file-name: HCLG.fst
+    sha256: ee5203e43017cda124fffa94d79a5fc8939850945dad45a6ff62154f6ed9310c
   acoustic_model/base_graph/disambig_tid.int:
     bytes: 60
     sha256: b571c2d9ef2f31ae67828ff2879ef8680e8ced86f6eae06274e5682f1f2d5690
