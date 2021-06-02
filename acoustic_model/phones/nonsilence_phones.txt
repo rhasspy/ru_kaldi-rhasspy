@@ -2,8 +2,6 @@ a
 aː
 b
 bʲ
-t͡s
-t͡ɕ
 d
 dʲ
 e
@@ -37,6 +35,8 @@ s
 sʲ
 t
 tʲ
+t͡s
+t͡ɕ
 u
 uː
 v

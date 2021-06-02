@@ -140,7 +140,7 @@
       "entities": [],
       "text": "как холодно",
       "raw_text": "как холодно",
-      "recognize_seconds": 0.00028316001407802105,
+      "recognize_seconds": 0.00014657100109616295,
       "tokens": [
         "как",
         "холодно"
@@ -150,7 +150,7 @@
         "холодно"
       ],
       "wav_seconds": 0.901625,
-      "transcribe_seconds": 0.4630865550134331,
+      "transcribe_seconds": 0.4916337590002513,
       "speech_confidence": null,
       "wav_name": "как_холодно.wav",
       "expected_intent_name": "",
@@ -186,7 +186,7 @@
       "entities": [],
       "text": "дверь гаража открыта",
       "raw_text": "дверь гаража открыта",
-      "recognize_seconds": 0.0002923909923993051,
+      "recognize_seconds": 0.00024871799905668013,
       "tokens": [
         "дверь",
         "гаража",
@@ -198,7 +198,7 @@
         "открыта"
       ],
       "wav_seconds": 1.463625,
-      "transcribe_seconds": 0.529288176971022,
+      "transcribe_seconds": 0.45213029099977575,
       "speech_confidence": null,
       "wav_name": "дверь_гаража_открыта.wav",
       "expected_intent_name": "",
@@ -262,7 +262,7 @@
       ],
       "text": "включить свет в гараже",
       "raw_text": "включить свет в гараже",
-      "recognize_seconds": 0.0003112739650532603,
+      "recognize_seconds": 0.00033048499972210266,
       "tokens": [
         "включить",
         "свет",
@@ -276,7 +276,7 @@
         "гараже"
       ],
       "wav_seconds": 1.6334375,
-      "transcribe_seconds": 0.5225387020036578,
+      "transcribe_seconds": 0.4647057859983761,
       "speech_confidence": null,
       "wav_name": "включить_свет_в_гараже.wav",
       "expected_intent_name": "",
@@ -318,7 +318,7 @@
       "entities": [],
       "text": "который сейчас час",
       "raw_text": "который сейчас час",
-      "recognize_seconds": 0.00027495698304846883,
+      "recognize_seconds": 0.0001464849992771633,
       "tokens": [
         "который",
         "сейчас",
@@ -330,7 +330,7 @@
         "час"
       ],
       "wav_seconds": 1.3988125,
-      "transcribe_seconds": 0.5125605699722655,
+      "transcribe_seconds": 0.5265662659985537,
       "speech_confidence": null,
       "wav_name": "который_сейчас_час.wav",
       "expected_intent_name": "",
@@ -369,7 +369,7 @@
       "entities": [],
       "text": "дверь гаража закрыта",
       "raw_text": "дверь гаража закрыта",
-      "recognize_seconds": 0.00018776697106659412,
+      "recognize_seconds": 0.00015793899729033,
       "tokens": [
         "дверь",
         "гаража",
@@ -381,7 +381,7 @@
         "закрыта"
       ],
       "wav_seconds": 1.4755625,
-      "transcribe_seconds": 0.5051143349846825,
+      "transcribe_seconds": 0.5037989160009602,
       "speech_confidence": null,
       "wav_name": "дверь_гаража_закрыта.wav",
       "expected_intent_name": "",
@@ -420,7 +420,7 @@
       "entities": [],
       "text": "как жарко",
       "raw_text": "как жарко",
-      "recognize_seconds": 0.0002523029688745737,
+      "recognize_seconds": 0.00018648600234882906,
       "tokens": [
         "как",
         "жарко"
@@ -430,7 +430,7 @@
         "жарко"
       ],
       "wav_seconds": 0.8564375,
-      "transcribe_seconds": 0.4912178000085987,
+      "transcribe_seconds": 0.476940275002562,
       "speech_confidence": null,
       "wav_name": "как_жарко.wav",
       "expected_intent_name": "",
@@ -491,7 +491,7 @@
       ],
       "text": "выключить лампу в гостиной",
       "raw_text": "выключить лампу в гостиной",
-      "recognize_seconds": 0.0007880679913796484,
+      "recognize_seconds": 0.00017952000052900985,
       "tokens": [
         "выключить",
         "лампу",
@@ -505,7 +505,7 @@
         "гостиной"
       ],
       "wav_seconds": 1.7734375,
-      "transcribe_seconds": 0.5470523139811121,
+      "transcribe_seconds": 0.4995117010003014,
       "speech_confidence": null,
       "wav_name": "выключить_лампу_в_гостиной.wav",
       "expected_intent_name": "",
@@ -572,7 +572,7 @@
       ],
       "text": "выключить свет в гараже",
       "raw_text": "выключить свет в гараже",
-      "recognize_seconds": 0.0004483539960347116,
+      "recognize_seconds": 0.0004242879986122716,
       "tokens": [
         "выключить",
         "свет",
@@ -586,7 +586,7 @@
         "гараже"
       ],
       "wav_seconds": 1.6661875,
-      "transcribe_seconds": 0.5114515979657881,
+      "transcribe_seconds": 0.4867777780018514,
       "speech_confidence": null,
       "wav_name": "выключить_свет_в_гараже.wav",
       "expected_intent_name": "",
@@ -653,7 +653,7 @@
       ],
       "text": "включить лампу в гостиной",
       "raw_text": "включить лампу в гостиной",
-      "recognize_seconds": 0.00020898599177598953,
+      "recognize_seconds": 0.0006576470004802104,
       "tokens": [
         "включить",
         "лампу",
@@ -667,7 +667,7 @@
         "гостиной"
       ],
       "wav_seconds": 1.7756875,
-      "transcribe_seconds": 0.4909849200048484,
+      "transcribe_seconds": 0.48772357299822033,
       "speech_confidence": null,
       "wav_name": "включить_лампу_в_гостиной.wav",
       "expected_intent_name": "",
@@ -709,7 +709,7 @@
       "entities": [],
       "text": "какая температура",
       "raw_text": "какая температура",
-      "recognize_seconds": 0.0002421580138616264,
+      "recognize_seconds": 0.0002239379973616451,
       "tokens": [
         "какая",
         "температура"
@@ -719,7 +719,7 @@
         "температура"
       ],
       "wav_seconds": 1.3096875,
-      "transcribe_seconds": 0.4956555509706959,
+      "transcribe_seconds": 0.48484411999743315,
       "speech_confidence": null,
       "wav_name": "какая_температура.wav",
       "expected_intent_name": "",
@@ -761,5 +761,5 @@
   "intent_accuracy": null,
   "entity_accuracy": null,
   "intent_entity_accuracy": null,
-  "average_transcription_speedup": 2.7990520587424568
+  "average_transcription_speedup": 2.9282401842264827
 }
